@@ -1,0 +1,1 @@
+variaveis { cadeia a = 2 ; }    
