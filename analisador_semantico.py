@@ -4,7 +4,7 @@
 arquivo = open('variaveis.txt')
 
 # Declaracao das variaveis, listas e matrizes usadas no codigo
-linhas = 19
+linhas = []
 caracteres = []
 tokens = []
 
