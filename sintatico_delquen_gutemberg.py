@@ -7,7 +7,7 @@ arquivo = open('Teste 1.5 - Declaracao de vetores e matrizes (com erro).txt')
 linhas = []
 caracteres = []
 tokens = []
-
+ 
 # Lista que contem as palavras reservadas, necessarias para serem verificadas na definicao do token
 palavras_reservadas = ['algoritmo', 'variaveis', 'contantes', 'registro', 'funcao', 'retorno', 'vazio', 'se', 'senao',
 'enquanto', 'para', 'leia', 'escreva', 'inteiro', 'real', 'booleano', 'char', 'cadeia', 'verdadeiro', 'falso']
