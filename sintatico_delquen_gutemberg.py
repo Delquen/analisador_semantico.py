@@ -3,7 +3,7 @@
 # Favor inserir o nome do arquivo em que se encontra o codigo .txt dentro da funcao open()
 arquivo = open('Teste 1.5 - Declaracao de vetores e matrizes (com erro).txt')
 
-# Declaracao das variaveis, listas e matrizes usadas no codigo
+# Declaracao das variaveis, listas e matrizes usadas no codigo 
 linhas = []
 caracteres = []
 tokens = []
